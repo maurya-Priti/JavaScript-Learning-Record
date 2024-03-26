@@ -1,0 +1,16 @@
+JAVASCRIPT NOTES
+
+1. JS console
+-allows modification in real-time
+-allows to run scripts (in console by inspecting the web page)
+-debugging and fixing errors
+-modify DOM
+
+2. DOM Manipulation
+-change HTML
+      document.(html element to be changed).innerHTML="NEW HTML CODE "
+-change CSS
+      document.(select html element).style="css code"
+-perform actions
+      use js functions to perform actions on html elements
+
