@@ -1,0 +1,20 @@
+JS VARIABLES
+-conatiner to store data
+
+
+Naming conventions
+1. camelCase
+2. snake case:
+my_words_name
+
+3. kebab case:
+my-words-name
+not allowed in js
+
+
+Ways to create Variables
+1. const:
+2. let
+3. var
+
+by default keep variables as const, later if any modification required then update them as let or var
