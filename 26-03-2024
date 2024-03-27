@@ -14,3 +14,24 @@ JAVASCRIPT NOTES
 -perform actions
       use js functions to perform actions on html elements
 
+Chrome extensions can be developed with JS
+
+3. JS with HTML & CSS
+
+Query Selector:
+-getELementById
+-getElementByClassName
+
+Above two selectors was used initially, but alternatively querySelector() method used.
+document.querySelector("select elements as selected in CSS")
+
+1. document.querySelector("elementName") i.e.  document.querySelector("h1")
+2. document.querySelector("class name") i.e.  document.querySelector(".box")
+3. document.querySelector("id of element") i.e.  document.querySelector("#box1")
+
+4. Script Tag
+
+added in the end of body so that javascript is loaded after HTML and CSS is loaded, 
+if js loaded before html and css that page loading will take time
+
+
